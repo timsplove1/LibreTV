@@ -39,10 +39,10 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    // xiaomaomi: {
-    //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
-    //     name: '小猫咪资源',
-    // },
+     xiaomaomi: {
+         api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
+         name: '小猫咪资源',
+     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
@@ -109,6 +109,26 @@ const API_SITES = {
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
+    },
+    huya: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源'
+    },
+    fantuan: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视'
+    },
+    cj: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂'
+    },
+    qiqidys: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源'
+    },
+    hhzy: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
