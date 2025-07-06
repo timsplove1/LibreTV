@@ -130,6 +130,18 @@ const API_SITES = {
         api: 'https://hhzyapi.com/api.php/provide/vod',
         name: '豪华资源'
     },
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun资源'
+    },
+    subocj: {
+        api: 'https://subocj.com/api.php/provide/vod',
+        name: '速播资源'
+    },
+    fczy: {
+        api: 'https://api.fczy888.me/api.php/provide/vod',
+        name: '蜂巢资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
