@@ -110,10 +110,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    huya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源'
-    },
     fantuan: {
         api: 'https://www.fantuan.tv/api.php/provide/vod',
         name: '饭团影视'
@@ -126,10 +122,7 @@ const API_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源'
     },
-    hhzy: {
-        api: 'https://hhzyapi.com/api.php/provide/vod',
-        name: '豪华资源'
-    },
+
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
@@ -141,6 +134,10 @@ const API_SITES = {
     fczy: {
         api: 'https://api.fczy888.me/api.php/provide/vod',
         name: '蜂巢资源'
+    },
+    qilin: {
+        api: 'http://www.qilinzyz.com/api.php/provide/vod',
+        name: '麒麟资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
