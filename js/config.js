@@ -122,7 +122,6 @@ const API_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
-
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源',
@@ -138,6 +137,18 @@ const API_SITES = {
     qilin: {
         api: 'http://www.qilinzyz.com/api.php/provide/vod',
         name: '麒麟资源',
+    },
+     jyzy: {
+        api: 'https://jyzyapi.com/provide/vod',
+        name: '金鹰资源',
+    },
+     niuniuzy: {
+        api: 'https://api.niuniuzy.me/api.php/provide/vod',
+        name: '牛牛资源',
+    },
+     avre: {
+        api: 'https://www.avre06.com/api.php/provide/vod',
+        name: '黄瓜资源',
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
