@@ -138,10 +138,6 @@ const API_SITES = {
         api: 'http://www.qilinzyz.com/api.php/provide/vod',
         name: '麒麟资源',
     },
-     jyzy: {
-        api: 'https://jyzyapi.com/provide/vod',
-        name: '金鹰资源',
-    },
      niuniuzy: {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源',
